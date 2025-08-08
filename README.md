@@ -12,7 +12,6 @@ MEDIFY is a web application designed for booking appointment slots at medical ce
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction🚀
 
@@ -45,8 +44,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BoddepallyVenkatesh06/MEDIFY-Medical-Center-Slot-Booking-Platform.git
-cd medify-slot-booking
+git clone https://github.com/notvedant24/xmedify
 ```
 
 2. Install frontend dependencies:

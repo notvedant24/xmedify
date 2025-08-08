@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/notvedant24/xmedify
-cd medify-slot-booking
+cd xmedify
 ```
 
 2. Install frontend dependencies:

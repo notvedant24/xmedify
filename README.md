@@ -12,7 +12,6 @@ MEDIFY is a web application designed for booking appointment slots at medical ce
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction🚀
 

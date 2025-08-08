@@ -71,9 +71,6 @@ Create a `.env` file in the `server` directory and add the following environment
 render.com
 ```
 
-## Flow of the Application🔧
-
-![FlowChart](https://github.com/BoddepallyVenkatesh06/MEDIFY-Medical-Center-Slot-Booking-Platform/blob/main/Flowchart.png)
 
 ### Usage📈
 

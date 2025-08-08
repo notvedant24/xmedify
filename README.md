@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BoddepallyVenkatesh06/MEDIFY-Medical-Center-Slot-Booking-Platform.git
+git clone https://github.com/notvedant24/xmedify
 cd medify-slot-booking
 ```
 
